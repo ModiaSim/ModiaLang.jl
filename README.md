@@ -1,3 +1,9 @@
+> ⚠️ **INFO: This repository is deprecated**
+> 
+> Do no longer use this repository. Use instead [Modia.jl](https://github.com/ModiaSim/Modia.jl).
+> For more details, see [Modia 0.8.0 release notes](https://github.com/ModiaSim/Modia.jl/releases/tag/v0.8.0) and [ModiaSim](https://modiasim.github.io/docs/). 
+
+
 # ModiaLang.jl
 
 [![The MIT License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](https://github.com/ModiaSim/ModiaLang.jl/blob/master/LICENSE.md)
